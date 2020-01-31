@@ -1,1 +1,1 @@
-# Assignment #1 
+# HTTP protocol simulation
